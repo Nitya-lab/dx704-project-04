@@ -1,0 +1,13 @@
+Acknowledgments
+
+
+The Libraries/Tools used 
+- pandas — loaded TSVs, merged tables, reshaped tags to one hot, saved outputs.
+- numpy — basic math and linear algebra helpers.
+- scikit-learn (Ridge) — ridge regression with fit_intercept=False.
+
+
+People/Collaboration
+- I discussed this assignment with no one and did not use any additional sources beyond the course materials,
+other than occasional Google searches to help understand concepts covered in class. 
+
